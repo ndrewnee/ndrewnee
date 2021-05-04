@@ -13,4 +13,4 @@
 
 ## 🤝 Connect with me
 
-[![ndrewnee@gmail.com](https://img.shields.io/badge/ndrewnee@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:ndrewnee@gmail.com)
+[![ndrewnee@gmail.com](https://img.shields.io/badge/-ndrewnee%40gmail.com-red?style=for-the-badge)](mailto:ndrewnee@gmail.com)
