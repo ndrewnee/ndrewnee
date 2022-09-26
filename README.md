@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Andrew
  
-- 🇺🇿 I live in Nukus, Uzbekistan.
+- 🇺🇿 I live in Tashkent, Uzbekistan.
 - 🐿 I'm a Software engineer at [Medesk](https://www.medesk.net).
 - 🤖 Most of the time I'm writing on Go and Typescript.
 
