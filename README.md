@@ -26,3 +26,4 @@ r# Hi there 👋 I'm Andrew
 ## 🤝 Connect with me
 
 [![ndrewnee@gmail.com](https://img.shields.io/badge/-ndrewnee%40gmail.com-red?style=for-the-badge)](mailto:ndrewnee@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndrewnee/)
