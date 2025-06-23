@@ -1,4 +1,4 @@
-r# Hi there 👋 I'm Andrew
+# Hi there 👋 I'm Andrew
  
 - 🇺🇿 I live in Tashkent, Uzbekistan.
 - 🐿 I'm a Software Engineer at [Haqqex](https://haqqex.com/).
