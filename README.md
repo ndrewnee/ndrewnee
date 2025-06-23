@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Andrew
+r# Hi there 👋 I'm Andrew
  
 - 🇺🇿 I live in Tashkent, Uzbekistan.
 - 🐿 I'm a Software Engineer at [Haqqex](https://haqqex.com/).
@@ -14,6 +14,7 @@
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Mongodb](https://img.shields.io/badge/mongodb%20-%23323330.svg?&style=for-the-badge&logo=mongodb)
 ![Neo4j](https://img.shields.io/badge/neo4j%20-%23323330.svg?&style=for-the-badge&logo=neo4j)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
