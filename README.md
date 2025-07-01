@@ -5,6 +5,8 @@
 - 🤖 I write code for [10+ years](https://www.linkedin.com/in/ndrewnee), most of the time on Go and Typescript.
 - ✉️ You can shoot me an email at [ndrewnee@gmail.com](mailto:ndrewnee@gmail.com).
 
+#### My CV: [Andrey Ni.pdf](https://raw.githubusercontent.com/ndrewnee/ndrewnee/master/cv.pdf)
+
 ## 🛠 Skills
 
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white)
