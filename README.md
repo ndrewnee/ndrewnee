@@ -1,11 +1,11 @@
-# Hi there 👋 I'm Andrey
+# Hi there 👋 I'm Andrew
  
 - 🇺🇿 I live in Tashkent, Uzbekistan.
 - 🐿 I'm a Software Engineer at [Haqqex](https://haqqex.com/).
 - 🤖 I write code for [10+ years](https://www.linkedin.com/in/ndrewnee), most of the time on Go and Typescript.
 - ✉️ You can shoot me an email at [ndrewnee@gmail.com](mailto:ndrewnee@gmail.com).
 
-#### My CV: [Andrey Ni.pdf](https://raw.githubusercontent.com/ndrewnee/ndrewnee/master/cv.pdf)
+#### My CV: [Andrew Nee.pdf](https://raw.githubusercontent.com/ndrewnee/ndrewnee/master/cv.pdf)
 
 ## 🛠 Skills
 
