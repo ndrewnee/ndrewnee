@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Andrew
  
-- 🇺🇿 I live in Tashkent, Uzbekistan.
-- 🐿 I'm a Software Engineer at [Haqqex](https://haqqex.com/).
 - 🤖 I write code for [10+ years](https://www.linkedin.com/in/ndrewnee), most of the time on Go and Typescript.
 - ✉️ You can shoot me an email at [ndrewnee@gmail.com](mailto:ndrewnee@gmail.com).
 
@@ -27,5 +25,6 @@
 
 ## 🤝 Connect with me
 
+[![Telegram](https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/ndrewnee/)
 [![ndrewnee@gmail.com](https://img.shields.io/badge/-ndrewnee%40gmail.com-red?style=for-the-badge)](mailto:ndrewnee@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndrewnee/)
