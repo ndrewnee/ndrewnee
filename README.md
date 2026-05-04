@@ -3,7 +3,7 @@
 - 🤖 I write code for [10+ years](https://www.linkedin.com/in/ndrewnee), most of the time on Go and Typescript.
 - ✉️ You can shoot me an email at [ndrewnee@gmail.com](mailto:ndrewnee@gmail.com).
 
-#### My CV: [Andrew Nee.pdf](https://raw.githubusercontent.com/ndrewnee/ndrewnee/master/cv.pdf)
+#### My CV: [Andrew Nee.pdf](https://raw.githubusercontent.com/ndrewnee/ndrewnee/master/cv_Andrew_Nee.pdf)
 
 ## 🛠 Skills
 
